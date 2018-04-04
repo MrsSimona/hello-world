@@ -2,4 +2,4 @@
 
 Hi there,
 
-I'm a creative writer, a mom and now a self-taught programmer. Here are my first steps of codding.
+I'm a creative writer and mom, who wants to become a programmer. I'm on my self-learning process of coding. 
